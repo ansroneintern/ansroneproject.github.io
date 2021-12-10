@@ -296,7 +296,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Krub", sans-serif;
   font-size: 14px;
   font-weight: 600;
-  color: #2d405f;
+  color: black;
   white-space: nowrap;
   transition: 0.3s;
 }
