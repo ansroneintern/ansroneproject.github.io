@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
   position: relative;
 /*   background: linear-gradient(0deg, black 0%, #33364a 100%); */
-  backgroung-image:url("../img/pexels-ron-lach-10347150.jpg");
+  backgroung-image:url("../../img/pexels-ron-lach-10347150.jpg");
   padding: 0;
 }
 #hero .carousel-container {
